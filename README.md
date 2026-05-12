@@ -78,7 +78,7 @@ Python was used for:
 
 ## Dashboard Preview
 
-![Customer Churn Dashboard](screenshots/2.png)
+![Customer Churn Dashboard](screenshots/customer_churn_dashboard.png)
 
 ---
 
